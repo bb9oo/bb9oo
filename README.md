@@ -23,7 +23,7 @@
 
 <!--[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=bbb999)](https://solved.ac/bbb999/)-->
   
-<table><tr><td valign="top" width="50%">
+<table><tr><td valign="top" width="49%">
 <img src="https://github-readme-stats.vercel.app/api?username=bb9oo&theme=solarized-light&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
 </td><td valign="top" width="50%">
 <!--<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=bbb999" align="left" style="width: 100%" />-->
