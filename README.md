@@ -17,13 +17,14 @@
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-bdge&logo=Java&logoColor=white)
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bb9oo&theme=swift&show_icons=true) | [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=bbb999)](https://solved.ac/bbb999/) 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bb9oo&theme=flag-india&show_icons=true) | [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=bbb999)](https://solved.ac/bbb999/) 
 ------------ | ------------- 
 
 <table><tr><td valign="top" width="50%">
-<img src="https://github-readme-stats.vercel.app/api?username=bb9oo&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
+<img src="https://github-readme-stats.vercel.app/api?username=bb9oo&theme=solarized-light&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
 </td><td valign="top" width="50%">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bb9oo&hide_border=true&layout=compact" align="left" style="width: 100%" />
+<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=bbb999" align="left" style="width: 100%" />
+<!--<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bb9oo&hide_border=true&layout=compact" align="left" style="width: 100%" />-->
 </td></tr></table>
 
 </div>
