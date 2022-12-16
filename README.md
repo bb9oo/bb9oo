@@ -3,6 +3,8 @@
 >![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-bdge&logo=Java&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F.svg?&style=for-the-bdge&logo=Java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-bdge&logo=Java&logoColor=white)
+  <a href=""><img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-bdge&logo=Java&logoColor=white"/></a>
+  <a href=""><img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-bdge&logo=Java&logoColor=white"/></a>
 
 >## Tools
 ><img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=Eclipse IDE&logoColor=white"/>
