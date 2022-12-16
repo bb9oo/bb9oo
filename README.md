@@ -1,3 +1,6 @@
+
+<center>
+
 <a href="https://github.com/bb0oo" target="_blank"><img src="https://img.shields.io/badge/Bang-FFE15D?style=for-the-badge&logo=GitHub Sponsors&logoColor=yellow"/></a>
 
 <!--<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/뱃지레이블-배경색?style=뱃지모양&logo=로고&logoColor=로고색상"/></a>-->
@@ -15,10 +18,14 @@
 
 
 
+<div>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bb9oo&theme=swift&show_icons=true)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=bbb999)](https://solved.ac/bbb999/)
 
+</div>
 
+</center>
 <!--
 **bb9oo/bb9oo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
