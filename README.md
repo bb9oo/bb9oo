@@ -1,5 +1,5 @@
 
-<center>
+
 
 <a href="https://github.com/bb0oo" target="_blank"><img src="https://img.shields.io/badge/Bang-FFE15D?style=for-the-badge&logo=GitHub Sponsors&logoColor=yellow"/></a>
 
@@ -15,8 +15,8 @@
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-bdge&logo=Java&logoColor=white)
 
 
-
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bb9oo&theme=swift&show_icons=true) | [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=bbb999)](https://solved.ac/bbb999/) 
+------------ | ------------- 
 
 <div>
 
@@ -25,7 +25,7 @@
 
 </div>
 
-</center>
+
 <!--
 **bb9oo/bb9oo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
