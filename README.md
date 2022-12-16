@@ -7,7 +7,7 @@
 
 <!--<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/뱃지레이블-배경색?style=뱃지모양&logo=로고&logoColor=로고색상"/></a>-->
 
-# ✨ Skills ✨
+# ✨ Skills ✨ 
 ![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-bdge&logo=Java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JAVASCRIPT-yellow?style=for-the-bdge&logo=&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F.svg?&style=for-the-bdge&logo=Java&logoColor=white)
